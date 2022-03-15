@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "dependencies": {
+    "cypress": "^9.5.2"
+  },
+  "devDependencies": {
+    "cypress-xpath": "^1.6.2"
+  }
+}
