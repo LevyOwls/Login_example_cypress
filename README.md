@@ -1,5 +1,5 @@
 # Login_example_cypress
 ---
 
-npm install
+npm install  
 *set user and pass*
